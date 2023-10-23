@@ -15,7 +15,8 @@ Et pour les interface, on trouve:
 ## L'interface de Gestion des Machines 
 ![image](https://github.com/A-laili/TP_RMI/assets/147451080/a1b184e0-428d-49f5-87fe-cad4be5fc1df)
 
-       ### Après l'ajout d'une machine on a l'affichage du petit message suivant:
+       Après l'ajout d'une machine on a l'affichage du petit message suivant:
+      
         ![image](https://github.com/A-laili/TP_RMI/assets/147451080/3b0ad3de-4bb9-4c7c-8f97-c8d4f3fdc6e2)
 
 Du meme pour la suppression et la modification.
@@ -24,7 +25,9 @@ Du meme pour la suppression et la modification.
 ## L'interface de Gestion des Salles
 
 ![image](https://github.com/A-laili/TP_RMI/assets/147451080/f8669cd8-d602-4725-856f-83fd99998e11)
- ### Après l'ajout d'une Salle on a l'affichage du petit message suivant:
+
+ Après l'ajout d'une Salle on a l'affichage du petit message suivant:
+ 
 ![image](https://github.com/A-laili/TP_RMI/assets/147451080/d1d3801b-cc73-442f-b298-ffdab0e85364)
 
  
