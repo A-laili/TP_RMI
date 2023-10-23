@@ -13,14 +13,21 @@ Et pour les interface, on trouve:
 
 
 ## L'interface de Gestion des Machines 
-![image](https://github.com/A-laili/TP_RMI/assets/147451080/a1b184e0-428d-49f5-87fe-cad4be5fc1df)
+
+![image](https://github.com/A-laili/TP_RMI/assets/147451080/78221a81-53c6-4f2f-bbb3-6bd4ab035f20)
+
 
  
  Après l'ajout d'une machine on a l'affichage du petit message suivant:
       
-![image](https://github.com/A-laili/TP_RMI/assets/147451080/3b0ad3de-4bb9-4c7c-8f97-c8d4f3fdc6e2)
+![image](https://github.com/A-laili/TP_RMI/assets/147451080/eb9c67f0-ec68-457a-8500-f96b591ecafb)
+
 
 Du meme pour la suppression et la modification.
+![image](https://github.com/A-laili/TP_RMI/assets/147451080/f552d74d-5b5d-49b1-aed4-2d4575fa19a9)
+![image](https://github.com/A-laili/TP_RMI/assets/147451080/17f4b352-9307-41c6-810d-e879cd5fe986)
+![image](https://github.com/A-laili/TP_RMI/assets/147451080/fa87f555-5184-427f-880d-04081f766a18)
+
 
 
 ## L'interface de Gestion des Salles
@@ -29,10 +36,14 @@ Du meme pour la suppression et la modification.
 
  Après l'ajout d'une Salle on a l'affichage du petit message suivant:
  
-![image](https://github.com/A-laili/TP_RMI/assets/147451080/d1d3801b-cc73-442f-b298-ffdab0e85364)
+![image](https://github.com/A-laili/TP_RMI/assets/147451080/5bf70b3f-d0fb-4414-be83-2fd477b8534b)
+
 
  
 Du meme pour la suppression et la modification.
+![image](https://github.com/A-laili/TP_RMI/assets/147451080/02f791e0-5c26-49eb-849b-613177868e0c)
+![image](https://github.com/A-laili/TP_RMI/assets/147451080/b4a9f332-71f7-4017-99ec-3aeaa7373786)
+![image](https://github.com/A-laili/TP_RMI/assets/147451080/4b2b7271-7d35-486c-8137-53c31d0543cd)
 
 
 Et finalement on a:
@@ -41,16 +52,16 @@ Et finalement on a:
 ![image](https://github.com/A-laili/TP_RMI/assets/147451080/74f7790d-7021-4eaa-b3e3-8fbb7325ebd7)
 
 # Technologies utilisées
-Java
-MySQL (pour la base de données)
-Hibernate (pour la couche de persistance)
-RMI (pour la communication client-serveur)
+ - Java
+ - MySQL (for the database)
+ - Hibernate (for the persistence layer)
+ - RMI (for client-server communication)
 
 # Fonctionnalités du Projet
 
-Opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) pour les machines.
-Opérations CRUD pour les salles.
-Recherche des machines disponibles dans chaque salle.
+ -  Opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) pour les machines.
+ -  Opérations CRUD pour les salles.
+ -  Recherche des machines disponibles dans chaque salle.
 
 # Structure du Projet
 Le projet est divisé en deux parties :
