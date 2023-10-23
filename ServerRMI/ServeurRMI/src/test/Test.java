@@ -1,0 +1,40 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package test;
+
+import Entities.Machine;
+import service.MachineService;
+import dao.IDao;
+import java.rmi.RemoteException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import util.HibernateUtil;
+
+/**
+ *
+ * @author Asmaa
+ */
+public class Test {
+
+    public static void main(String[] args) {
+//        try {
+//            IDao <Machine> dao = new MachineService();
+//            dao.create(new Machine("ER44", "HP", 1000));
+//            dao.create(new Machine("ER46", "Lenovo", 5000));
+//            dao.create(new Machine("ER48", "HP", 5000));
+//            
+//            for (Machine m : dao.findAll())
+//                System.out.println(m);
+//            
+//            
+//        } catch (RemoteException ex) {
+//            Logger.getLogger(Test.class.getName()).log(Level.SEVERE, null, ex);
+//        }
+//        
+//       
+    }
+
+}
