@@ -52,17 +52,29 @@ Recherche des machines disponibles dans chaque salle.
 Le projet est divisé en deux parties :
 
 # Projet ServerRMI
+
 src/main/java/entities : Classes d'entité pour les machines et les salles.
+
 src/main/java/util : Classe HibernateUtil pour gérer la SessionFactory.
+
 src/main/java/service : Classes MachineService et RoomService pour les opérations de service.
+
 src/main/java/config : Fichier hibernate.cfg.xml pour la configuration Hibernate.
+
 src/main/java/dao : Interface IDao pour les opérations CRUD.
+
 src/main/java/server : Classe Server pour démarrer le serveur RMI.
-Projet ClientRMI
+
+# Projet ClientRMI
+
 src/main/java/entities : Classes d'entité pour les machines et les salles.
+
 src/main/java/dao : Interface IDao pour les opérations CRUD.
+
 src/main/java/config : Classe Config pour la configuration RMI (adresse IP et port).
+
 src/main/resources : Fichier configuration.properties pour spécifier l'adresse IP et le port du serveur.
+
 src/main/java/ui : Interface utilisateur graphique Swing pour la gestion des salles et des machines.
 
 
