@@ -15,7 +15,8 @@ Et pour les interface, on trouve:
 ## L'interface de Gestion des Machines 
 ![image](https://github.com/A-laili/TP_RMI/assets/147451080/a1b184e0-428d-49f5-87fe-cad4be5fc1df)
 
-       Après l'ajout d'une machine on a l'affichage du petit message suivant:
+ 
+ Après l'ajout d'une machine on a l'affichage du petit message suivant:
       
         ![image](https://github.com/A-laili/TP_RMI/assets/147451080/3b0ad3de-4bb9-4c7c-8f97-c8d4f3fdc6e2)
 
