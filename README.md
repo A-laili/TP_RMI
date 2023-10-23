@@ -18,7 +18,7 @@ Et pour les interface, on trouve:
  
  Après l'ajout d'une machine on a l'affichage du petit message suivant:
       
-        ![image](https://github.com/A-laili/TP_RMI/assets/147451080/3b0ad3de-4bb9-4c7c-8f97-c8d4f3fdc6e2)
+![image](https://github.com/A-laili/TP_RMI/assets/147451080/3b0ad3de-4bb9-4c7c-8f97-c8d4f3fdc6e2)
 
 Du meme pour la suppression et la modification.
 
